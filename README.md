@@ -2,17 +2,21 @@
 <h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on  [Car-Sales-Project](https://github.com/keremcengiz0/CarSalesProject) [Pet-Clinic](https://github.com/keremcengiz0/sfg-pet-clinic [Quest-App](https://github.com/keremcengiz0/questapp)
+- 🔭 I’m currently working on [Car-Sales-Project](https://github.com/keremcengiz0/CarSalesProject)
+
+- 🔭 I’m currently working on [Pet-Clinic](https://github.com/keremcengiz0/sfg-pet-clinic)
+
+- 🔭 You can visit my project from this link. [Quest-App](https://github.com/keremcengiz0/questapp)
 
 - 🌱 I’m currently learning **Spring Boot, MySQL, Oracle, React, JavaScript.**
 
 - 📫 How to reach me **keremcengiz0@hotmail.com
-                      https://www.linkedin.com/in/keremcengiz/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keremcengiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keremcengiz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/keremcengiz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keremcengiz0" height="30" width="40" /></a>
+<a href="keremcengiz0@hotmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/761/761755.png" alt="keremcengiz0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
