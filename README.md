@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Spring Boot, MySQL, Oracle, React, JavaScript.**
 
-- 📫 How to reach me **keremcengiz0@hotmail.com
+- 📫 How to reach me **keremcengiz0@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keremcengiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keremcengiz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/keremcengiz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keremcengiz0" height="30" width="40" /></a>
-<a href="mailto:keremcengiz0@hotmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/761/761755.png" alt="keremcengiz0" height="30" width="40" />Send email</a>
+<a href="mailto:keremcengiz0@hotmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/761/761755.png" alt="keremcengiz0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
