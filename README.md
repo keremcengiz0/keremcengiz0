@@ -3,10 +3,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Car-Sales-Project](https://github.com/keremcengiz0/CarSalesProject)
+- [Pet-Clinic](https://github.com/keremcengiz0/sfg-pet-clinic)
+- [Quest-App](https://github.com/keremcengiz0/questapp)
 
-- 🌱 I’m currently learning **Spring Boot, MySQL, Oracle.**
+- 🌱 I’m currently learning **Spring Boot, MySQL, Oracle, React, JavaScript.**
 
-- 📫 How to reach me **keremcengiz0@hotmail.com**
+- 📫 How to reach me **keremcengiz0@hotmail.com, https://www.linkedin.com/in/keremcengiz/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
