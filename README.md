@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Car-Sales-Project](https://github.com/keremcengiz0/CarSalesProject)
 
-- 🔭 I’m currently working on [Pet-Clinic](https://github.com/keremcengiz0/sfg-pet-clinic)
+- 🔭  You can visit my project from this link. [Pet-Clinic](https://github.com/keremcengiz0/sfg-pet-clinic)
 
 - 🔭 You can visit my project from this link. [Quest-App](https://github.com/keremcengiz0/questapp)
 
-- 🌱 I’m currently learning **Spring Boot, MySQL, Oracle, React, JavaScript.**
+- 🌱 I’m currently learning **Spring Boot, MySQL, Oracle, React, JavaScript, Docker.**
 
 - 📫 How to reach me **keremcengiz0@hotmail.com**
 
