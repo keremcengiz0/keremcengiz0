@@ -10,7 +10,7 @@
 
 - 🔭 You can visit my project from this link. [Quest-App](https://github.com/keremcengiz0/questapp)
 
-- 🌱 I’m currently learning **Spring Boot, MySQL, Oracle, React, JavaScript, Docker.**
+- 🌱 I’m currently learning **Spring Boot, Microservices, MySQL, Oracle, React, JavaScript, Docker.**
 
 - 📫 How to reach me **keremcengiz0@hotmail.com**
 
